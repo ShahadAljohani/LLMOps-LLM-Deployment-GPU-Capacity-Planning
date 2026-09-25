@@ -1,4 +1,4 @@
-# LLM-Deployment-GPU-Capacity-Planning
+# LLMOps: LLM-Deployment-GPU-Capacity-Planning
 
 ## Configuration
 
