@@ -47,3 +47,6 @@ The largest model by parameter count that fits within the 16 GB budget is:
 * **Result:** FITS
 
 > **Best combination: Llama-3.2-3B-Instruct at FP16.**
+
+
+* This repository contains a selected subset of the project files for demonstration and documentation purposes. Some internal implementation and configuration files have been omitted.
