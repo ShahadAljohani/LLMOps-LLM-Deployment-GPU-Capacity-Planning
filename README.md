@@ -50,3 +50,7 @@ The largest model by parameter count that fits within the 16 GB budget is:
 
 
 * This repository contains a selected subset of the project files for demonstration and documentation purposes. Some internal implementation and configuration files have been omitted.
+
+
+ -hello stalker, you want to steal this project too?
+
