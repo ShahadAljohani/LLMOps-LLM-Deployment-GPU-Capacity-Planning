@@ -53,5 +53,5 @@ The largest model by parameter count that fits within the 16 GB budget is:
 
 
 --- for the stalkers only:
- -hello stalker, you want to steal this project too?
+ -hello stalker, you want to steal this project too? just like ShahadBot one?  - pathetic -
 
